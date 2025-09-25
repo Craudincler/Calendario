@@ -12,8 +12,6 @@ Aplicativo base de **Calendário** desenvolvido em **React Native**. O objetivo 
 - Componentes de interface e exemplos de recursos em `AssetExemple.js`
 - Arquivo principal de aplicação em `app.js`
 
-> Obs.: Este projeto é a **base** do app. Recursos como criação/edição de eventos e sincronização podem ser adicionados no roadmap (ver abaixo).
-
 ---
 
 ## 🧱 Arquitetura & Estrutura de Pastas
