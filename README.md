@@ -16,11 +16,11 @@ Aplicativo base de **Calendário** desenvolvido em **React Native**. O objetivo 
 
 ## 🧱 Arquitetura & Estrutura de Pastas
 
-Calendario/
-├─ app.js # Ponto de entrada do app
-├─ AssetExemple.js # Exemplo de uso de assets/componentes
-├─ babel.config.js # Configuração do Babel
-└─ package.json # Dependências e scripts
+Calendario
+ - app.js # Ponto de entrada do app
+ - AssetExemple.js # Exemplo de uso de assets/componentes
+ - abel.config.js # Configuração do Babel
+ - ckage.json # Dependências e scripts
 
 ---
 
