@@ -2,6 +2,7 @@
 
 Aplicativo base de **Calendário** desenvolvido em **React Native**. O objetivo é oferecer um ponto de partida simples e organizado para exibir e interagir com datas, servindo como fundação para funcionalidades como marcação de compromissos, lembretes e visualizações por mês/semana/dia.
 
+> Participantes - Lucas Claudino, Gabriel Schettini, Iury Cauam e Lucas Santana  
 > Repositório: `Craudincler/Calendario`
 
 ---
